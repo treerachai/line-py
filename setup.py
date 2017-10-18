@@ -8,7 +8,7 @@ LINE Python -- LINE Messaging's private API
 Links
 `````
 
-* `GitHub repository <https://github.com/fadhiilrachman/line-py>`_
+* `GitHub repository <https://github.com/treerachai/line-py>`_
 
 """
 try:
@@ -30,9 +30,9 @@ setup(
     python_requires='>=2.7',
     version='1.5',
     license='BSD License',
-    author='Fadhiil Rachman',
-    author_email='fadhiilrachman@gmail.com',
-    url='https://github.com/fadhiilrachman/line-py',
+    author='****',
+    author_email='9',
+    url='https://github.com/treerachai/line-py',
     description=' LINE Messaging\'s private API',
     long_description=long_description,
     classifiers=[
