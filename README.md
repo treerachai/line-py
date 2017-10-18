@@ -50,4 +50,4 @@ client.log("Auth Token : " + str(client.authToken))
 
 ### Examples
 
-All examples can be found [here](https://github.com/fadhiilrachman/line-py/tree/master/examples).
+All examples can be found [here](https://github.com/treerachai/line-py/tree/master/examples).
